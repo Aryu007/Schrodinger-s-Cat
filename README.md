@@ -33,4 +33,4 @@ Schrödinger's Cat illustrates the bizarre implications of quantum mechanics whe
 This paradox remains central to discussions about quantum interpretation, measurement, and the boundary between quantum and classical physics.
 
 ### Watch Prototype 
-[Schrodinger's Cat Experiment](https://schrodingers-2yq9wkhbc-aryu007s-projects.vercel.app/)
+[Schrodinger's Cat Experiment](schrodingerscat.vercel.app)
